@@ -96,6 +96,7 @@ module.exports = function(
     build: 'react-scripts build',
     test: 'react-scripts test --env=jsdom',
     eject: 'react-scripts eject',
+    deploy: 'react-scripts deploy'
   };
 
   appPackage.browserslist = defaultBrowsers;
